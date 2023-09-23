@@ -13,7 +13,12 @@ class reactor_unit(models.Model):
     NRC_Region = models.IntegerField(default=0)
 
 class unit_report(models.Model):
-    ReportDt = models.DateTimeField("Report datetime")
+    id = models.AutoField(primary_key=True)
+    ReportDt = models.CharField(max_length = 300)
     Unit = models.CharField(max_length=200)
     Power = models.IntegerField(default=0)
 
+class fact_table(models.Model):
+    id = models.AutoField(primary_key=True)
+    reactor_id = models.IntegerField(default = 0)
+    report_id = models.IntegerField(default = 0)
