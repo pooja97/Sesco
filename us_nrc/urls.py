@@ -1,6 +1,6 @@
 from django.urls import path
-from . import views
+from .views import reactorList
 
 urlpatterns = [
-    path("", views.index, name="index"),
+    path('', reactorList.as_view()),
 ]

@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import reactor_unit,unit_report,fact_table
+from .models import reactor_unit,unit_report, fact_table
 
 
 # Register your models here.
