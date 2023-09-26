@@ -4,7 +4,7 @@ from django.db import models
 
 class reactor_unit(models.Model):   
     id = models.AutoField(primary_key=True)
-    PlantName = models.CharField(max_length=500)
+    PlantName = models.CharField(max_length=200)
     DocketNumber = models.IntegerField(default=0)
     LicenseNumber = models.CharField(max_length=200)
     ReactorType = models.CharField(max_length=200)
@@ -16,11 +16,7 @@ class reactor_unit(models.Model):
 class unit_report(models.Model):
     id = models.AutoField(primary_key=True)
     ReportDt = models.CharField(max_length = 300)
-    Unit = models.CharField(max_length=200)
+    Unit = models.CharField(max_length = 200)
     Power = models.IntegerField(default=0)
 
 
-class fact_table(models.Model):
-    id = models.AutoField(primary_key=True)
-    reactor_id = models.IntegerField(default = 0)
-    report_id = models.IntegerField(default = 0)

@@ -1,6 +1,11 @@
 from django.urls import path
-from .views import reactorList
+from us_nrc.views import reactor_state
+from us_nrc.views import reactor_name
 
 urlpatterns = [
-    path('', reactorList.as_view()),
+    # re_path(r'^', include(router.urls)),
+    # path('', reactorList_state.reactorList.as_view()),
+    path(r'search/',reactor_name.reactorName.as_view()),
+    path(r'state/',reactor_state.reactorState.as_view()),
 ]
+
