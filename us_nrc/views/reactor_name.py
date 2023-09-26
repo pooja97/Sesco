@@ -7,6 +7,7 @@ from ..serializers.reactor_serializer import reactor_serializer
 from rest_framework import generics
 import django_filters.rest_framework
 
+
 class reactorName(generics.ListAPIView):
     model = reactor_unit
     serializer_class = reactor_serializer

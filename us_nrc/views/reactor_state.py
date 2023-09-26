@@ -7,15 +7,6 @@ import django_filters.rest_framework
 
 
 #Create your views here
-
-#Script for reading report data
-# with open('/Users/sheshmani/Desktop/SESCO/NRC/us_nrc/report_data.txt','r') as f:
-#     report_data = f.readlines()[1:-1]
-#     for line in report_data:
-#         data_lst = line.split('|')
-#         b =  unit_report(ReportDt = data_lst[0],Unit = data_lst[1],Power = data_lst[2])
-#         b.save()
-        
 class reactorState(generics.ListAPIView):
     model = reactor_unit
     serializer_class = reactor_serializer

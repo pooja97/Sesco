@@ -13,10 +13,10 @@ class reactor_unit(models.Model):
     Owner = models.CharField(max_length=200)
     NRC_Region = models.IntegerField(default=0)
 
-class unit_report(models.Model):
+class Report_data(models.Model):
     id = models.AutoField(primary_key=True)
     ReportDt = models.CharField(max_length = 300)
     Unit = models.CharField(max_length = 200)
     Power = models.IntegerField(default=0)
-
+    
 
