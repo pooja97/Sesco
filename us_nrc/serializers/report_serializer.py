@@ -1,9 +1,9 @@
 from rest_framework import serializers
-from ..models import unit_report
+from ..models import Report_data
 
 
 class report_serializer(serializers.ModelSerializer):
     class Meta:
-        model = unit_report
+        model = Report_data
         fields = ["id", "ReportDt", "Unit", "Power"]
 
