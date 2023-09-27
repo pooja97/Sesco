@@ -15,6 +15,7 @@ class reactor_unit(models.Model):
 
 class Report_data(models.Model):
     id = models.AutoField(primary_key=True)
+    reactor = models.ForeignKey(reactor_unit,null=True, on_delete=models.CASCADE)
     ReportDt = models.CharField(max_length = 300)
     Unit = models.CharField(max_length = 200)
     Power = models.IntegerField(default=0)
