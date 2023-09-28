@@ -1,6 +1,7 @@
 # from ..models import Report_data, reactor_unit
 # from django.shortcuts import render
 # from django.http import HttpResponse
+# import datetime
 
 # def index(request):
 #     with open('/Users/sheshmani/Desktop/SESCO/NRC/us_nrc/report_data.txt','r') as f:
@@ -9,7 +10,7 @@
 #             data_lst = line.split('|')
 #             r_id = reactor_unit.objects.all().filter(PlantName=data_lst[1]).first()
 #             date_details = data_lst[0].split(' ')
-#             date = date_details[0]
+#             date = datetime.datetime.strptime(date_details[0],"%m/%d/%Y").date()
 #             time = date_details[1]
 #             period = date_details[2]
 #             b =  Report_data(reactor=r_id, ReportDt = date, ReportTime = time, ReportPeriod = period,Unit = data_lst[1],Power = data_lst[2])
@@ -17,4 +18,3 @@
 #     return HttpResponse("Done")
 
     
-           
