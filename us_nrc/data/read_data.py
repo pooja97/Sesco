@@ -2,9 +2,11 @@
 # from django.shortcuts import render
 # from django.http import HttpResponse
 # import datetime
+# from pathlib import path
 
 # def index(request):
-#     with open('/Users/sheshmani/Desktop/SESCO/NRC/us_nrc/report_data.txt','r') as f:
+#       
+#     with Path(__file__).parent.joinpath('report_data.txt').open() as f:
 #         report_data = f.readlines()[1:-1]
 #         for line in report_data:
 #             data_lst = line.split('|')
@@ -18,3 +20,7 @@
 #     return HttpResponse("Done")
 
     
+
+
+
+#file_location '/Users/sheshmani/Desktop/SESCO/NRC/us_nrc/report_data.txt'

@@ -15,7 +15,7 @@ class reactor_unit(models.Model):
 
 class Report_data(models.Model):
     id = models.AutoField(primary_key=True)
-    reactor = models.ForeignKey(reactor_unit,null=True, on_delete=models.CASCADE)
+    reactor = models.ForeignKey(reactor_unit,on_delete=models.CASCADE)
     ReportDt = models.DateField()
     ReportTime = models.CharField(max_length=200,default='12:00:00')
     ReportPeriod = models.CharField(max_length=100,default='AM')

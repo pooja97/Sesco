@@ -7,7 +7,7 @@ from ..models import Report_data,reactor_unit
 # from ..serializers import report_serializer.report_serializer,
 from ..serializers import report_serializers
 
-class ReactorOutageView(APIView):
+class ReactorOutageDetails(APIView):
     def post(self, request, *args, **kwargs):
         # Get start and end dates from user input
         start_date = datetime.datetime.strptime(self.request.data.get('start_date'),"%m/%d/%Y").date()
@@ -19,8 +19,4 @@ class ReactorOutageView(APIView):
         queryset = Report_data.objects.filter(ReportDt__range=[start_date,end_date],Power = 0).select_related("reactor")
         serializer = report_serializers.report_serializer(queryset,many=True)
 
-        name_list = list()
-        for name in serializer.data:
-            name_list.append(name["Unit"])
-
-        return Response(name_list)
+        return Response(serializer.data)
