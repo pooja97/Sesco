@@ -3,9 +3,8 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 import datetime
-from ..models import Report_data,reactor_unit
+from ..models import Report_data
 # from ..serializers import report_serializer.report_serializer,
-from ..serializers import report_serializers
 
 class ReactorOutageDetails(APIView):
     def post(self, request, *args, **kwargs):
@@ -16,7 +15,6 @@ class ReactorOutageDetails(APIView):
         if not start_date or not end_date:
             return Response({'error': 'Please provide both start_date and end_date.'}, status=status.HTTP_400_BAD_REQUEST)
         
-        queryset = Report_data.objects.filter(ReportDt__range=[start_date,end_date],Power = 0).select_related("reactor")
-        serializer = report_serializers.report_serializer(queryset,many=True)
+        queryset = Report_data.objects.filter(ReportDt__range=[start_date,end_date],Power = 0).select_related("reactor").values('reactor__PlantName', 'reactor__DocketNumber','reactor__ReactorType','reactor__Location','reactor__State','Power', 'ReportDt')
 
-        return Response(serializer.data)
+        return Response(queryset)
