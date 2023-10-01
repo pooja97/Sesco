@@ -1,0 +1,82 @@
+[2023-10-01T09:03:50.327-0700] {processor.py:157} INFO - Started process (PID=19439) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:03:50.329-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:03:50.330-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.330-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:03:50.348-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:03:50.588-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.588-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-01T09:03:50.591-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.591-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-01T09:03:50.593-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.593-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-01T09:03:50.593-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.593-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:read_data_dag' as access control is unset.
+[2023-10-01T09:03:50.594-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.594-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:03:50.598-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.597-0700] {dag.py:2937} INFO - Creating ORM DAG for read_data_dag
+[2023-10-01T09:03:50.601-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:50.601-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:03:50.610-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.283 seconds
+[2023-10-01T09:05:00.172-0700] {processor.py:157} INFO - Started process (PID=19633) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:00.174-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:05:00.175-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:00.175-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:00.190-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:00.255-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:00.255-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:00.262-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:00.261-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:05:00.305-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.133 seconds
+[2023-10-01T09:05:36.776-0700] {processor.py:157} INFO - Started process (PID=19688) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:36.779-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:05:36.780-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:36.779-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:36.795-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:05:36.859-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:36.859-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:36.866-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:36.866-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:05:36.872-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.096 seconds
+[2023-10-01T09:06:11.961-0700] {processor.py:157} INFO - Started process (PID=19765) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:11.963-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:06:11.964-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:11.964-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:11.980-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:12.051-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:12.051-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:12.059-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:12.059-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:06:12.066-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.105 seconds
+[2023-10-01T09:06:48.562-0700] {processor.py:157} INFO - Started process (PID=19823) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:48.565-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:06:48.565-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:48.565-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:48.586-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:06:48.665-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:48.664-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:48.685-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:48.684-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:06:48.721-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.159 seconds
+[2023-10-01T09:07:30.318-0700] {processor.py:157} INFO - Started process (PID=19886) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:07:30.320-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:07:30.321-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:30.321-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:07:30.337-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:07:30.403-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:30.402-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:30.409-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:30.409-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:07:30.417-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.099 seconds
+[2023-10-01T09:08:12.826-0700] {processor.py:157} INFO - Started process (PID=19932) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:12.829-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:08:12.829-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:12.829-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:12.844-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:12.909-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:12.909-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:12.915-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:12.915-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:08:12.922-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.096 seconds
+[2023-10-01T09:08:52.221-0700] {processor.py:157} INFO - Started process (PID=19974) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:52.223-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:08:52.223-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:52.223-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:52.238-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:08:52.303-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:52.303-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:52.309-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:52.309-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:08:52.316-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.095 seconds
+[2023-10-01T09:09:31.312-0700] {processor.py:157} INFO - Started process (PID=20039) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:09:31.314-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:09:31.314-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:31.314-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:09:31.331-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:09:31.402-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:31.401-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:31.408-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:31.408-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:09:31.415-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.103 seconds
+[2023-10-01T09:10:12.372-0700] {processor.py:157} INFO - Started process (PID=20091) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:12.375-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:10:12.375-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:12.375-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:12.391-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:12.455-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:12.455-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:12.461-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:12.461-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:10:12.468-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.097 seconds
+[2023-10-01T09:10:49.388-0700] {processor.py:157} INFO - Started process (PID=20133) to work on /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:49.391-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py for tasks to queue
+[2023-10-01T09:10:49.391-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:49.391-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:49.407-0700] {processor.py:839} INFO - DAG(s) dict_keys(['read_data_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py
+[2023-10-01T09:10:49.475-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:49.475-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:49.483-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:49.482-0700] {dag.py:3696} INFO - Setting next_dagrun for read_data_dag to 2023-10-01T00:00:00+00:00, run_after=2023-10-02T00:00:00+00:00
+[2023-10-01T09:10:49.489-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py took 0.102 seconds

@@ -1,0 +1,35 @@
+[2023-10-01T09:04:58.524-0700] {processor.py:157} INFO - Started process (PID=19626) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:04:58.527-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-01T09:04:58.527-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:58.527-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:04:58.553-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:04:58.608-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:58.608-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:58.615-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:58.614-0700] {dag.py:3696} INFO - Setting next_dagrun for example_bash_operator to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:04:58.621-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.097 seconds
+[2023-10-01T09:06:10.348-0700] {processor.py:157} INFO - Started process (PID=19764) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:06:10.350-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-01T09:06:10.350-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:10.350-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:06:10.377-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:06:10.431-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:10.431-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:10.438-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:10.438-0700] {dag.py:3696} INFO - Setting next_dagrun for example_bash_operator to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:06:10.445-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.097 seconds
+[2023-10-01T09:07:28.481-0700] {processor.py:157} INFO - Started process (PID=19885) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:07:28.495-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-01T09:07:28.498-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:28.496-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:07:28.557-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:07:28.653-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:28.653-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:28.665-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:28.665-0700] {dag.py:3696} INFO - Setting next_dagrun for example_bash_operator to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:07:28.677-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.196 seconds
+[2023-10-01T09:08:51.506-0700] {processor.py:157} INFO - Started process (PID=19971) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:08:51.508-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-01T09:08:51.509-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:51.509-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:08:51.536-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:08:51.593-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:51.593-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:51.600-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:51.600-0700] {dag.py:3696} INFO - Setting next_dagrun for example_bash_operator to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:08:51.607-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.101 seconds
+[2023-10-01T09:10:10.765-0700] {processor.py:157} INFO - Started process (PID=20090) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:10:10.768-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-01T09:10:10.768-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:10.768-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:10:10.794-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-01T09:10:10.848-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:10.847-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:10.854-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:10.854-0700] {dag.py:3696} INFO - Setting next_dagrun for example_bash_operator to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:10:10.861-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.096 seconds

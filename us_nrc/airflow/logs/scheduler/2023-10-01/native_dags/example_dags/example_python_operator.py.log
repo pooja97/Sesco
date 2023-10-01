@@ -1,0 +1,48 @@
+[2023-10-01T09:04:27.591-0700] {processor.py:157} INFO - Started process (PID=19537) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:04:27.593-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:04:27.593-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:27.593-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:04:27.619-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:04:28.007-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:28.007-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:04:28.007-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:28.007-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:28.011-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:28.011-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:04:28.020-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.429 seconds
+[2023-10-01T09:05:34.888-0700] {processor.py:157} INFO - Started process (PID=19686) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:05:34.891-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:05:34.891-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:34.891-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:05:34.916-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:05:35.208-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:35.208-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:05:35.208-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:35.208-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:35.211-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:35.211-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:05:35.218-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.330 seconds
+[2023-10-01T09:06:46.498-0700] {processor.py:157} INFO - Started process (PID=19822) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:06:46.501-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:06:46.501-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:46.501-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:06:46.539-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:06:46.836-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:46.836-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:06:46.836-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:46.836-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:46.839-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:46.839-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:06:46.846-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.348 seconds
+[2023-10-01T09:08:08.416-0700] {processor.py:157} INFO - Started process (PID=19929) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:08:08.419-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:08:08.419-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:08.419-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:08:08.440-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:08:08.751-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:08.751-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:08:08.751-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:08.751-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:08.754-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:08.754-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:08:08.761-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.346 seconds
+[2023-10-01T09:09:24.986-0700] {processor.py:157} INFO - Started process (PID=20019) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:09:24.988-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:09:24.989-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:24.988-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:09:25.011-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:09:25.331-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:25.331-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:09:25.332-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:25.332-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:25.335-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:25.335-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:09:25.342-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.357 seconds
+[2023-10-01T09:10:44.547-0700] {processor.py:157} INFO - Started process (PID=20121) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:10:44.550-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-01T09:10:44.550-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:44.550-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:10:44.575-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-01T09:10:44.864-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:44.864-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_python_operator' as access control is unset.
+[2023-10-01T09:10:44.864-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:44.864-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:44.867-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:44.867-0700] {dag.py:3696} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-01T09:10:44.874-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.327 seconds

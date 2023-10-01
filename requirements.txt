@@ -2,3 +2,8 @@ django
 djangorestframework
 django-filter
 django-extensions
+django-clickhouse-backend
+clickhouse-driver 
+django-clickhouse
+clickhouse-connect
+apache-airflow

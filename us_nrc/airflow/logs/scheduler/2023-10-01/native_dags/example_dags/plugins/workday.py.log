@@ -1,0 +1,60 @@
+[2023-10-01T09:03:54.028-0700] {processor.py:157} INFO - Started process (PID=19461) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:03:54.030-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:03:54.030-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:54.030-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:03:54.030-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:03:54.030-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:03:54.030-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:03:54.094-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.067 seconds
+[2023-10-01T09:05:03.499-0700] {processor.py:157} INFO - Started process (PID=19641) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:03.502-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:05:03.502-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:03.502-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:03.503-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:03.502-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:05:03.503-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:03.551-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2023-10-01T09:05:39.321-0700] {processor.py:157} INFO - Started process (PID=19697) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:39.323-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:05:39.324-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:39.324-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:39.324-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:39.324-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:05:39.324-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:05:39.373-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2023-10-01T09:06:14.642-0700] {processor.py:157} INFO - Started process (PID=19770) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:14.645-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:06:14.645-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:14.645-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:14.646-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:14.646-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:06:14.646-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:14.708-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.066 seconds
+[2023-10-01T09:06:51.075-0700] {processor.py:157} INFO - Started process (PID=19827) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:51.077-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:06:51.077-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:51.077-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:51.078-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:51.078-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:06:51.078-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:06:51.128-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.054 seconds
+[2023-10-01T09:07:33.561-0700] {processor.py:157} INFO - Started process (PID=19890) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:07:33.563-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:07:33.564-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:33.564-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:07:33.564-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:33.564-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:07:33.565-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:07:33.614-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2023-10-01T09:08:15.944-0700] {processor.py:157} INFO - Started process (PID=19935) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:15.947-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:08:15.947-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:15.947-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:15.948-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:15.948-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:08:15.948-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:15.996-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2023-10-01T09:08:54.031-0700] {processor.py:157} INFO - Started process (PID=19976) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:54.033-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:08:54.033-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:54.033-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:54.034-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:54.034-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:08:54.034-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:08:54.083-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2023-10-01T09:09:34.816-0700] {processor.py:157} INFO - Started process (PID=20043) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:09:34.818-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:09:34.819-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:34.819-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:09:34.819-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:34.819-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:09:34.819-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:09:34.873-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.058 seconds
+[2023-10-01T09:10:15.534-0700] {processor.py:157} INFO - Started process (PID=20096) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:10:15.536-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-01T09:10:15.537-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:15.537-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:10:15.537-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:15.537-0700] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-01T09:10:15.537-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-01T09:10:15.590-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds

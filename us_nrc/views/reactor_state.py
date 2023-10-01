@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from ..models  import reactor_unit
+from ..dags.models  import reactor_unit
 from ..serializers.reactor_serializer import reactor_serializer
 from rest_framework import generics
 import django_filters.rest_framework

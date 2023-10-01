@@ -1,0 +1,35 @@
+[2023-10-01T09:04:38.141-0700] {processor.py:157} INFO - Started process (PID=19550) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:04:38.143-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-01T09:04:38.143-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:38.143-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:04:38.153-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:04:38.218-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:38.218-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:38.224-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:38.224-0700] {dag.py:3696} INFO - Setting next_dagrun for latest_only to 2023-10-01T12:04:38.223942+00:00, run_after=2023-10-01T16:04:38.223942+00:00
+[2023-10-01T09:04:38.233-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.092 seconds
+[2023-10-01T09:05:50.470-0700] {processor.py:157} INFO - Started process (PID=19718) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:05:50.473-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-01T09:05:50.473-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:50.473-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:05:50.483-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:05:50.548-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:50.548-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:50.554-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:50.554-0700] {dag.py:3696} INFO - Setting next_dagrun for latest_only to 2023-10-01T12:05:50.554347+00:00, run_after=2023-10-01T16:05:50.554347+00:00
+[2023-10-01T09:05:50.562-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.092 seconds
+[2023-10-01T09:07:05.404-0700] {processor.py:157} INFO - Started process (PID=19839) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:07:05.407-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-01T09:07:05.407-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:05.407-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:07:05.418-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:07:05.486-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:05.486-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:05.493-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:05.493-0700] {dag.py:3696} INFO - Setting next_dagrun for latest_only to 2023-10-01T12:07:05.492943+00:00, run_after=2023-10-01T16:07:05.492943+00:00
+[2023-10-01T09:07:05.500-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.096 seconds
+[2023-10-01T09:08:31.462-0700] {processor.py:157} INFO - Started process (PID=19953) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:08:31.465-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-01T09:08:31.465-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:31.465-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:08:31.475-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:08:31.540-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:31.540-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:31.546-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:31.546-0700] {dag.py:3696} INFO - Setting next_dagrun for latest_only to 2023-10-01T12:08:31.546120+00:00, run_after=2023-10-01T16:08:31.546120+00:00
+[2023-10-01T09:08:31.553-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2023-10-01T09:09:50.623-0700] {processor.py:157} INFO - Started process (PID=20063) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:09:50.625-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-01T09:09:50.626-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:50.626-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:09:50.636-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-01T09:09:50.741-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:50.741-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:50.748-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:50.748-0700] {dag.py:3696} INFO - Setting next_dagrun for latest_only to 2023-10-01T12:09:50.748682+00:00, run_after=2023-10-01T16:09:50.748682+00:00
+[2023-10-01T09:09:50.756-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.134 seconds

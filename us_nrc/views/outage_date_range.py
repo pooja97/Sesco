@@ -3,7 +3,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 import datetime
-from ..models import Report_data
+from ..dags.models import Report_data
 # from ..serializers import report_serializer.report_serializer,
 
 class ReactorOutageDetails(APIView):

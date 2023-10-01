@@ -1,0 +1,42 @@
+[2023-10-01T09:04:00.679-0700] {processor.py:157} INFO - Started process (PID=19492) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:04:00.681-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:04:00.682-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:00.682-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:04:00.700-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:04:00.772-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:00.772-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:00.776-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:00.776-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:04:00.783-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2023-10-01T09:05:09.708-0700] {processor.py:157} INFO - Started process (PID=19653) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:05:09.711-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:05:09.711-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:09.711-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:05:09.725-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:05:09.790-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:09.790-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:09.794-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:09.794-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:05:09.801-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2023-10-01T09:06:20.774-0700] {processor.py:157} INFO - Started process (PID=19785) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:06:20.777-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:06:20.777-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:20.777-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:06:20.792-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:06:20.859-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:20.859-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:20.863-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:20.863-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:06:20.870-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+[2023-10-01T09:07:41.467-0700] {processor.py:157} INFO - Started process (PID=19900) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:07:41.469-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:07:41.469-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:41.469-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:07:41.484-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:07:41.582-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:41.582-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:41.586-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:41.586-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:07:41.593-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.127 seconds
+[2023-10-01T09:08:23.661-0700] {processor.py:157} INFO - Started process (PID=19945) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:08:23.664-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:08:23.664-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:23.664-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:08:23.681-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:08:23.760-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:23.760-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:23.764-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:23.764-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:08:23.770-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.110 seconds
+[2023-10-01T09:09:43.022-0700] {processor.py:157} INFO - Started process (PID=20048) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:09:43.025-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-01T09:09:43.026-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:43.026-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:09:43.041-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-01T09:09:43.111-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:43.111-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:43.115-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:43.115-0700] {dag.py:3696} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-01T09:09:43.122-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds

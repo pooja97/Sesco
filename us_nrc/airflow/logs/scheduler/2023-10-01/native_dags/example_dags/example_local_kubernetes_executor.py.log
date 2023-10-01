@@ -1,0 +1,55 @@
+[2023-10-01T09:04:35.795-0700] {processor.py:157} INFO - Started process (PID=19548) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:04:35.797-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-01T09:04:35.797-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:35.797-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:04:35.817-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:35.816-0700] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-01T09:04:35.817-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:35.817-0700] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-01T09:04:35.817-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:04:35.859-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.064 seconds
+[2023-10-01T09:05:48.956-0700] {processor.py:157} INFO - Started process (PID=19711) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:05:48.958-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-01T09:05:48.959-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:48.959-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:05:48.977-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:48.977-0700] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-01T09:05:48.978-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:48.978-0700] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-01T09:05:48.978-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:05:49.020-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.065 seconds
+[2023-10-01T09:07:03.039-0700] {processor.py:157} INFO - Started process (PID=19837) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:07:03.041-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-01T09:07:03.042-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:03.042-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:07:03.060-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:03.060-0700] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-01T09:07:03.060-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:03.060-0700] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-01T09:07:03.060-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:07:03.101-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.062 seconds
+[2023-10-01T09:08:28.270-0700] {processor.py:157} INFO - Started process (PID=19951) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:08:28.273-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-01T09:08:28.273-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:28.273-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:08:28.292-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:28.291-0700] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-01T09:08:28.292-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:28.292-0700] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-01T09:08:28.292-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:08:28.333-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.063 seconds
+[2023-10-01T09:09:48.593-0700] {processor.py:157} INFO - Started process (PID=20058) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:09:48.596-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-01T09:09:48.596-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:48.596-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:09:48.617-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:48.617-0700] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-01T09:09:48.617-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:48.617-0700] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-01T09:09:48.617-0700] {processor.py:841} WARNING - No viable dags retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-01T09:09:48.670-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.077 seconds

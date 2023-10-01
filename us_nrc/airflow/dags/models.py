@@ -1,6 +1,8 @@
 from django.db import models
+# from clickhouse_backend import models
 
 # Create your models here.
+
 
 class reactor_unit(models.Model):   
     id = models.AutoField(primary_key=True)
@@ -13,6 +15,8 @@ class reactor_unit(models.Model):
     Owner = models.CharField(max_length=200)
     NRC_Region = models.IntegerField(default=0)
 
+
+
 class Report_data(models.Model):
     id = models.AutoField(primary_key=True)
     reactor = models.ForeignKey(reactor_unit,on_delete=models.CASCADE)
@@ -21,5 +25,7 @@ class Report_data(models.Model):
     ReportPeriod = models.CharField(max_length=100,default='AM')
     Unit = models.CharField(max_length = 200)
     Power = models.IntegerField(default=0)
+
+    
     
 

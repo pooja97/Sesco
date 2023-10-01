@@ -1,0 +1,40 @@
+[2023-10-01T09:04:46.974-0700] {processor.py:157} INFO - Started process (PID=19560) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:04:46.976-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-10-01T09:04:46.976-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:46.976-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:04:47.082-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:04:47.340-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:47.340-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2023-10-01T09:04:47.340-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:47.340-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:47.344-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:47.344-0700] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-10-01T09:04:47.351-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.377 seconds
+[2023-10-01T09:05:58.808-0700] {processor.py:157} INFO - Started process (PID=19730) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:05:58.810-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-10-01T09:05:58.811-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:58.811-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:05:58.910-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:05:59.162-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:59.162-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2023-10-01T09:05:59.162-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:59.162-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:59.166-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:59.166-0700] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-10-01T09:05:59.173-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.366 seconds
+[2023-10-01T09:07:14.382-0700] {processor.py:157} INFO - Started process (PID=19845) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:07:14.384-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-10-01T09:07:14.384-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:14.384-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:07:14.551-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:07:14.899-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:14.899-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2023-10-01T09:07:14.899-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:14.899-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:14.904-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:14.904-0700] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-10-01T09:07:14.917-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.536 seconds
+[2023-10-01T09:08:39.428-0700] {processor.py:157} INFO - Started process (PID=19961) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:08:39.431-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-10-01T09:08:39.431-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:39.431-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:08:39.526-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:08:39.780-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:39.780-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2023-10-01T09:08:39.780-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:39.780-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:39.784-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:39.783-0700] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-10-01T09:08:39.791-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.363 seconds
+[2023-10-01T09:09:59.192-0700] {processor.py:157} INFO - Started process (PID=20076) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:09:59.195-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-10-01T09:09:59.195-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:59.195-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:09:59.289-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-10-01T09:09:59.561-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:59.560-0700] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2023-10-01T09:09:59.561-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:59.561-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:59.564-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:59.564-0700] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-10-01T09:09:59.572-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.380 seconds

@@ -1,0 +1,42 @@
+[2023-10-01T09:04:25.845-0700] {processor.py:157} INFO - Started process (PID=19535) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:04:25.847-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:04:25.847-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:25.847-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:04:25.901-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:04:26.009-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:26.009-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:26.013-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:26.013-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:04:26.022-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.177 seconds
+[2023-10-01T09:05:33.231-0700] {processor.py:157} INFO - Started process (PID=19680) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:05:33.233-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:05:33.233-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:33.233-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:05:33.253-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:05:33.321-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:33.321-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:33.325-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:33.325-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:05:33.332-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.101 seconds
+[2023-10-01T09:06:44.844-0700] {processor.py:157} INFO - Started process (PID=19820) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:06:44.847-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:06:44.847-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:44.847-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:06:44.867-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:06:44.937-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:44.937-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:44.941-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:44.941-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:06:44.949-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.105 seconds
+[2023-10-01T09:08:06.799-0700] {processor.py:157} INFO - Started process (PID=19928) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:08:06.801-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:08:06.802-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:06.802-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:08:06.821-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:08:06.889-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:06.889-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:06.892-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:06.892-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:08:06.899-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.100 seconds
+[2023-10-01T09:09:23.333-0700] {processor.py:157} INFO - Started process (PID=20016) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:09:23.335-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:09:23.336-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:23.336-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:09:23.355-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:09:23.425-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:23.425-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:23.428-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:23.428-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:09:23.436-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.103 seconds
+[2023-10-01T09:10:43.225-0700] {processor.py:157} INFO - Started process (PID=20120) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:10:43.227-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-01T09:10:43.227-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:43.227-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:10:43.248-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-01T09:10:43.321-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:43.321-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:43.325-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:43.325-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-01T09:10:43.332-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.107 seconds

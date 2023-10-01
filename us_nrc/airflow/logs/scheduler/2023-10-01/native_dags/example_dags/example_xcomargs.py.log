@@ -1,0 +1,48 @@
+[2023-10-01T09:04:04.172-0700] {processor.py:157} INFO - Started process (PID=19498) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:04:04.174-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:04:04.174-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:04.174-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:04:04.199-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:04:04.265-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:04.265-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:04:04.268-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:04.268-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:04:04.269-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:04.269-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:04:04.275-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.103 seconds
+[2023-10-01T09:05:12.477-0700] {processor.py:157} INFO - Started process (PID=19656) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:05:12.480-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:05:12.480-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:12.480-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:05:12.501-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:05:12.568-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:12.568-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:05:12.572-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:12.572-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:05:12.573-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:12.573-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:05:12.585-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.108 seconds
+[2023-10-01T09:06:23.217-0700] {processor.py:157} INFO - Started process (PID=19787) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:06:23.220-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:06:23.220-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:23.220-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:06:23.243-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:06:23.310-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:23.310-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:06:23.313-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:23.313-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:06:23.314-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:23.314-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:06:23.321-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.104 seconds
+[2023-10-01T09:07:44.920-0700] {processor.py:157} INFO - Started process (PID=19903) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:07:44.922-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:07:44.922-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:44.922-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:07:44.944-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:07:45.023-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:45.023-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:07:45.026-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:45.026-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:07:45.027-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:45.027-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:07:45.034-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.114 seconds
+[2023-10-01T09:09:01.213-0700] {processor.py:157} INFO - Started process (PID=19989) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:09:01.216-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:09:01.216-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:01.216-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:09:01.237-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:09:01.308-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:01.308-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:09:01.311-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:01.311-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:09:01.312-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:01.312-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:09:01.319-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.106 seconds
+[2023-10-01T09:10:21.956-0700] {processor.py:157} INFO - Started process (PID=20101) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:10:21.958-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-01T09:10:21.959-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:21.958-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:10:21.979-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-01T09:10:22.044-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:22.043-0700] {dag.py:2915} INFO - Sync 2 DAGs
+[2023-10-01T09:10:22.047-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:22.047-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-01T09:10:22.048-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:22.048-0700] {dag.py:3696} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-01T09:10:22.055-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.099 seconds

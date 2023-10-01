@@ -1,0 +1,35 @@
+[2023-10-01T09:04:54.559-0700] {processor.py:157} INFO - Started process (PID=19572) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:04:54.561-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-01T09:04:54.561-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:54.561-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:04:54.572-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:04:54.642-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:54.642-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:54.649-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:54.649-0700] {dag.py:3696} INFO - Setting next_dagrun for example_branch_labels to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:04:54.656-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2023-10-01T09:06:06.334-0700] {processor.py:157} INFO - Started process (PID=19753) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:06:06.337-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-01T09:06:06.337-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:06.337-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:06:06.349-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:06:06.416-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:06.416-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:06.423-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:06.423-0700] {dag.py:3696} INFO - Setting next_dagrun for example_branch_labels to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:06:06.430-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2023-10-01T09:07:23.168-0700] {processor.py:157} INFO - Started process (PID=19877) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:07:23.171-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-01T09:07:23.171-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:23.171-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:07:23.182-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:07:23.254-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:23.254-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:23.261-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:23.261-0700] {dag.py:3696} INFO - Setting next_dagrun for example_branch_labels to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:07:23.269-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2023-10-01T09:08:47.170-0700] {processor.py:157} INFO - Started process (PID=19966) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:08:47.173-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-01T09:08:47.173-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:47.173-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:08:47.184-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:08:47.251-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:47.251-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:47.257-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:47.257-0700] {dag.py:3696} INFO - Setting next_dagrun for example_branch_labels to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:08:47.266-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2023-10-01T09:10:06.756-0700] {processor.py:157} INFO - Started process (PID=20084) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:10:06.759-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-01T09:10:06.759-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:06.759-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:10:06.770-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-01T09:10:06.838-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:06.838-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:06.844-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:06.844-0700] {dag.py:3696} INFO - Setting next_dagrun for example_branch_labels to 2023-09-30T00:00:00+00:00, run_after=2023-10-01T00:00:00+00:00
+[2023-10-01T09:10:06.852-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds

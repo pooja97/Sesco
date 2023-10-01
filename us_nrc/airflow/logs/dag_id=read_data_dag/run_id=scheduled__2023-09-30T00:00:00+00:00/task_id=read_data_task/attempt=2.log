@@ -1,0 +1,34 @@
+[2023-10-01T09:09:26.461-0700] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: read_data_dag.read_data_task scheduled__2023-09-30T00:00:00+00:00 [queued]>
+[2023-10-01T09:09:26.464-0700] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: read_data_dag.read_data_task scheduled__2023-09-30T00:00:00+00:00 [queued]>
+[2023-10-01T09:09:26.464-0700] {taskinstance.py:1359} INFO - Starting attempt 2 of 2
+[2023-10-01T09:09:26.470-0700] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): read_data_task> on 2023-09-30 00:00:00+00:00
+[2023-10-01T09:09:26.472-0700] {standard_task_runner.py:57} INFO - Started process 20024 to run task
+[2023-10-01T09:09:26.476-0700] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'read_data_dag', 'read_data_task', 'scheduled__2023-09-30T00:00:00+00:00', '--job-id', '4', '--raw', '--subdir', '/Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py', '--cfg-path', '/var/folders/7z/25x3fh6j7csgzr7c56stq3140000gn/T/tmphty3ux5g']
+[2023-10-01T09:09:26.478-0700] {standard_task_runner.py:85} INFO - Job 4: Subtask read_data_task
+[2023-10-01T09:09:26.503-0700] {task_command.py:415} INFO - Running <TaskInstance: read_data_dag.read_data_task scheduled__2023-09-30T00:00:00+00:00 [running]> on host poojas-macbook-air.local
+[2023-10-01T09:09:26.524-0700] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='read_data_dag' AIRFLOW_CTX_TASK_ID='read_data_task' AIRFLOW_CTX_EXECUTION_DATE='2023-09-30T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-09-30T00:00:00+00:00'
+[2023-10-01T09:09:26.597-0700] {taskinstance.py:1935} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/read.py", line 11, in read_data_task
+    from models import Report_data, reactor_unit
+  File "/Users/sheshmani/Desktop/SESCO/django-rest/us_nrc/airflow/dags/models.py", line 7, in <module>
+    class reactor_unit(models.Model):
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/django/db/models/base.py", line 129, in __new__
+    app_config = apps.get_containing_app_config(module)
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/django/apps/registry.py", line 260, in get_containing_app_config
+    self.check_apps_ready()
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/django/apps/registry.py", line 137, in check_apps_ready
+    settings.INSTALLED_APPS
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/django/conf/__init__.py", line 102, in __getattr__
+    self._setup(name)
+  File "/Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/django/conf/__init__.py", line 82, in _setup
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings.
+[2023-10-01T09:09:26.605-0700] {taskinstance.py:1398} INFO - Marking task as FAILED. dag_id=read_data_dag, task_id=read_data_task, execution_date=20230930T000000, start_date=20231001T160926, end_date=20231001T160926
+[2023-10-01T09:09:26.608-0700] {standard_task_runner.py:104} ERROR - Failed to execute job 4 for task read_data_task (Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings.; 20024)
+[2023-10-01T09:09:26.620-0700] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-10-01T09:09:26.626-0700] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

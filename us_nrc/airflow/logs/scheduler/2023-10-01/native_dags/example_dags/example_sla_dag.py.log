@@ -1,0 +1,42 @@
+[2023-10-01T09:04:15.156-0700] {processor.py:157} INFO - Started process (PID=19517) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:04:15.158-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:04:15.158-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:15.158-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:04:15.180-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:04:15.243-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:15.243-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:15.250-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:15.250-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:02:00+00:00, run_after=2023-10-01T16:04:00+00:00
+[2023-10-01T09:04:15.257-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2023-10-01T09:05:24.115-0700] {processor.py:157} INFO - Started process (PID=19670) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:05:24.118-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:05:24.118-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:24.118-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:05:24.138-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:05:24.201-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:24.200-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:24.207-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:24.207-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:02:00+00:00, run_after=2023-10-01T16:04:00+00:00
+[2023-10-01T09:05:24.214-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2023-10-01T09:06:34.157-0700] {processor.py:157} INFO - Started process (PID=19806) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:06:34.159-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:06:34.159-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:34.159-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:06:34.192-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:06:34.306-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:34.305-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:34.314-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:34.314-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:04:00+00:00, run_after=2023-10-01T16:06:00+00:00
+[2023-10-01T09:06:34.328-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.172 seconds
+[2023-10-01T09:07:57.218-0700] {processor.py:157} INFO - Started process (PID=19919) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:07:57.221-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:07:57.222-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:57.221-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:07:57.242-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:07:57.305-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:57.305-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:07:57.312-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:07:57.312-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:04:00+00:00, run_after=2023-10-01T16:06:00+00:00
+[2023-10-01T09:07:57.319-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2023-10-01T09:09:12.505-0700] {processor.py:157} INFO - Started process (PID=20004) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:09:12.508-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:09:12.508-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:12.508-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:09:12.530-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:09:12.595-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:12.595-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:12.602-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:12.602-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:06:00+00:00, run_after=2023-10-01T16:08:00+00:00
+[2023-10-01T09:09:12.608-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2023-10-01T09:10:33.187-0700] {processor.py:157} INFO - Started process (PID=20110) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:10:33.190-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-01T09:10:33.190-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:33.190-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:10:33.210-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-01T09:10:33.273-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:33.273-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:10:33.280-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:10:33.280-0700] {dag.py:3696} INFO - Setting next_dagrun for example_sla_dag to 2023-10-01T16:08:00+00:00, run_after=2023-10-01T16:10:00+00:00
+[2023-10-01T09:10:33.287-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds

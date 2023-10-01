@@ -1,0 +1,35 @@
+[2023-10-01T09:04:32.533-0700] {processor.py:157} INFO - Started process (PID=19544) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:04:32.535-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-01T09:04:32.535-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:32.535-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:04:32.571-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:04:32.630-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:32.630-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:04:32.634-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:04:32.634-0700] {dag.py:3696} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-01T09:04:32.641-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.109 seconds
+[2023-10-01T09:05:46.561-0700] {processor.py:157} INFO - Started process (PID=19709) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:05:46.564-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-01T09:05:46.564-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:46.564-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:05:46.600-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:05:46.659-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:46.659-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:05:46.662-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:05:46.662-0700] {dag.py:3696} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-01T09:05:46.669-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.109 seconds
+[2023-10-01T09:06:59.768-0700] {processor.py:157} INFO - Started process (PID=19835) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:06:59.771-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-01T09:06:59.771-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:59.771-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:06:59.809-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:06:59.868-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:59.868-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:06:59.871-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:06:59.871-0700] {dag.py:3696} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-01T09:06:59.878-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.110 seconds
+[2023-10-01T09:08:25.318-0700] {processor.py:157} INFO - Started process (PID=19946) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:08:25.321-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-01T09:08:25.321-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:25.321-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:08:25.359-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:08:25.418-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:25.418-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:08:25.421-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:08:25.421-0700] {dag.py:3696} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-01T09:08:25.428-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.110 seconds
+[2023-10-01T09:09:45.287-0700] {processor.py:157} INFO - Started process (PID=20054) to work on /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:09:45.291-0700] {processor.py:829} INFO - Processing file /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-01T09:09:45.291-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:45.291-0700] {dagbag.py:539} INFO - Filling up the DagBag from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:09:45.328-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-01T09:09:45.387-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:45.387-0700] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-01T09:09:45.390-0700] {logging_mixin.py:151} INFO - [2023-10-01T09:09:45.390-0700] {dag.py:3696} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-01T09:09:45.397-0700] {processor.py:179} INFO - Processing /Users/sheshmani/Desktop/SESCO/env/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.110 seconds

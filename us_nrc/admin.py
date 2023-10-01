@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import reactor_unit, Report_data
+from us_nrc.dags.models import reactor_unit, Report_data
 
 
 
