@@ -1,7 +1,4 @@
 from django.db import models
-# from clickhouse_backend import models
-
-# Create your models here.
 
 
 class reactor_unit(models.Model):   

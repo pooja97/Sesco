@@ -3,7 +3,7 @@ from rest_framework.response import Response
 from rest_framework import status
 from datetime import date
 from django.db.models import Max
-from ..dags.models import Report_data,reactor_unit
+from ..models import Report_data,reactor_unit
 
 class ReactorOutageDate(APIView):
     def post(self, request, *args, **kwargs):

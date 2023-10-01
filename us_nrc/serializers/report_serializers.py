@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from ..dags.models import Report_data
+from ..models import Report_data
 
 
 class report_serializer(serializers.ModelSerializer):
