@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from ..dags.models import reactor_unit
+from ..models import reactor_unit
 
 class reactor_serializer(serializers.ModelSerializer):
     class Meta:

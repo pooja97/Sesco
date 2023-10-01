@@ -2,8 +2,8 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 from django.http import JsonResponse
-from ..dags.models  import reactor_unit
-from ..serializers.reactor_serializer import reactor_serializer
+from ..models  import reactor_unit
+from ..serializers import reactor_serializer
 from rest_framework import generics
 import django_filters.rest_framework
 
