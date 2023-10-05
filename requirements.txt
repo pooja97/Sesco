@@ -7,3 +7,4 @@ clickhouse-driver
 django-clickhouse
 clickhouse-connect
 apache-airflow
+pandas
