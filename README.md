@@ -32,7 +32,26 @@ Reactor Report details: https://www.nrc.gov/reading-rm/doc-collections/event-sta
 ``` pip3 install -r requirements.txt ```
 
 5. Change the directory to the project folder 
-``` cd django-rest ```
+``` cd Sesco ```
 
 6. To run the project use 
 ``` python manage.py runserver ```
+
+To view the API endpoints:
+    1. To view the last outage date of a reactor: visit - http://127.0.0.1:8000/outage_date_search/
+    Enter the reactor name in the content space like below
+            {
+            "reactor":"Arkansas Nuclear 1"
+            }
+    2. To view the reactors on outage between a particular date range: visit - http://127.0.0.1:8000/date_range_search/
+    Enter the date range in the content space like below
+        {
+        "start_date":"09/18/2023",
+        "end_date":"09/22/2023"
+        }
+    3. To view the reactor's list based on the state name. visit: http://127.0.0.1:8000/state_search/
+        Use the filter option to enter the state name. For instance: CA for California
+    4. To view the reactor details based on the PlantName. visit: http://127.0.0.1:8000/reactor_search/
+        Use the filter option to enter the Plant Name.
+    
+
