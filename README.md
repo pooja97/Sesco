@@ -37,20 +37,24 @@ Reactor Report details: https://www.nrc.gov/reading-rm/doc-collections/event-sta
 6. To run the project use 
 ``` python manage.py runserver ```
 
-To view the API endpoints: <br>
+To view the API endpoints: <br><br>
+
     1. To view the last outage date of a reactor: visit - http://127.0.0.1:8000/outage_date_search/ <br>
     Enter the reactor name in the content space like below <br>
             {
             "reactor":"Arkansas Nuclear 1"
             } <br>
+            
     2. To view the reactors on outage between a particular date range: visit - http://127.0.0.1:8000/date_range_search/ <br>
     Enter the date range in the content space like below <br>
         {
         "start_date":"09/18/2023",
         "end_date":"09/22/2023"
         } <br>
+        
     3. To view the reactor's list based on the state name. visit: http://127.0.0.1:8000/state_search/ <br>
         Use the filter option to enter the state name. For instance: CA for California <br>
+        
     4. To view the reactor details based on the PlantName. visit: http://127.0.0.1:8000/reactor_search/ <br>
         Use the filter option to enter the Plant Name. 
     
